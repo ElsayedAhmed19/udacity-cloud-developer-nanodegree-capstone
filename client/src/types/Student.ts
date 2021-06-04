@@ -1,8 +1,0 @@
-export interface Student {
-  studentId: string
-  createdAt: string
-  name: string
-  dueDate: string
-  done: boolean
-  attachmentUrl?: string
-}
