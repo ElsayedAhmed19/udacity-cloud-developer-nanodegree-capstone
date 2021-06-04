@@ -1,4 +1,4 @@
-# Serverless SChool
+# Serverless SChool students app
 
 To implement this project, you need to implement a simple School application using AWS Lambda and Serverless framework. Search for all comments starting with the `School:` in the code to find the placeholders that you need to implement.
 
